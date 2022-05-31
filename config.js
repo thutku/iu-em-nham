@@ -4,7 +4,7 @@ const CONFIG = {
     Mặc dù hong biết làm sai gì hết
     Nma đừng giận anh nữa nhe:<
     Iu em lắm nên làm tặng để bù em nè:<`,
-    btnIntro: ':3',
+    btnIntro: 'ỏ đâu anh iu',
     title: 'Đừng giận anh nữa nhe',
     desc: ' giận nữa là anh khok đóo ',
     btnYes: ' oki hết giận anh rồi mà',
